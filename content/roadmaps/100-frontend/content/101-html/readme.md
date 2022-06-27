@@ -8,3 +8,4 @@ HTML stands for HyperText Markup Language. It is used on the frontend and gives 
 <BadgeLink badgeText='Course' colorScheme='green' href='https://www.youtube.com/watch?v=qz0aGYrrlhU'>HTML Tutorial for Beginners: HTML Crash Course</BadgeLink>
 <BadgeLink badgeText='Course' colorScheme='green' href='https://www.codecademy.com/learn/learn-html'>Codecademy - Learn HTML</BadgeLink>
 <BadgeLink badgeText='Course' colorScheme='green' href='https://github.com/denysdovhan/learnyouhtml'>Interactive HTML Course</BadgeLink>
+<BadgeLink badgeText='Course' colorScheme='green' href='https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg'>Comprehensive Web Dev Course (Hindi)</BadgeLink>
